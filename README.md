@@ -5,13 +5,13 @@ This repository contains a structured collection of machine learning experiments
 
 ## Repository Structure
 ML_Fundamentals/
-├── supervised/ # Regression and classification algorithms
-├── unsupervised/ # Clustering and dimensionality reduction
-├── preprocessing/ # Data cleaning, scaling, outlier detection, handling imbalanced data
-├── model_evaluation/ # Metrics, validation, bias–variance
-├── neural_networks/ # Basic neural network fundamentals (MLP, perceptron)
-├── utils/ # Helper functions
-└── README.md
+    supervised/ # Regression and classification algorithms
+    unsupervised/ # Clustering and dimensionality reduction
+    preprocessing/ # Data cleaning, scaling, outlier detection, handling imbalanced data
+    model_evaluation/ # Metrics, validation, bias–variance
+    neural_networks/ # Basic neural network fundamentals (MLP, perceptron)
+    utils/ # Helper functions
+    README.md
 
 Notes:
 python codes or notebooks are organized by topic rather than as a single end-to-end project.
