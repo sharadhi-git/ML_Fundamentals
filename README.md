@@ -1,6 +1,6 @@
 # Machine Learning fundamentals
 
-This repository contains a structured collection of machine learning experiments implemented in Python. The notebooks were originally developed incrementally in Google Colab and later organized here for clarity, reproducibility, and reuse. The focus of this repository is to build intuition around core machine learning concepts through hands-on experimentation rather than polished production systems.
+This repository contains a structured collection of machine learning and Neural networks experiments implemented in Python. The notebooks were originally developed incrementally in Google Colab and later organized here for clarity, reproducibility, and reuse. The focus of this repository is to build intuition around core machine learning and deep learning concepts through hands-on experimentation rather than polished production systems.
 ---
 
 ## Repository Structure
@@ -9,7 +9,7 @@ ML_Fundamentals/
     unsupervised/ # Clustering and dimensionality reduction
     preprocessing/ # Data cleaning, scaling, outlier detection, handling imbalanced data
     model_evaluation/ # Metrics, validation, bias–variance
-    neural_networks/ # Basic neural network fundamentals (MLP, perceptron)
+    neural_networks/ # Neural network fundamentals (MLP, perceptron,convolution, pooling, batch normalization, Transfer Learning )
     utils/ # Helper functions
     README.md
 
